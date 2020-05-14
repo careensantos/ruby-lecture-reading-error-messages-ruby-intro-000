@@ -1,3 +1,1 @@
-"hello world"
-
-input= "hello_world"
+input = "hello_world"
